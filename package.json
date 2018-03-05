@@ -1,6 +1,6 @@
 {
   "name": "univalid-strategy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Abstract class of strategy for univalid module (base API)",
   "main": "index.js",
   "scripts": {},
@@ -9,15 +9,15 @@
     "url": "git+https://github.com/StetsD/univalid-strategy.git"
   },
   "keywords": [
-	  "password",
-      "input",
-      "univalid",
-      "validation",
-      "univalid-strategy",
-      "strategy",
-      "check",
-      "validate",
-	  "form"
+    "password",
+    "input",
+    "univalid",
+    "validation",
+    "univalid-strategy",
+    "strategy",
+    "check",
+    "validate",
+    "form"
   ],
   "author": "'stetsD' <chortstd@gmail.com>",
   "license": "ISC",
@@ -27,7 +27,7 @@
   "homepage": "https://github.com/StetsD/univalid-strategy#readme",
   "devDependencies": {},
   "dependencies": {
-	  "pass-power": "^1.0.0",
-      "univalid-key-logger": "^1.0.0"
+    "pass-power": "^1.0.0",
+    "univalid-key-logger": "^1.0.0"
   }
 }
