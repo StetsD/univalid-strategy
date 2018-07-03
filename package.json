@@ -28,6 +28,6 @@
   "devDependencies": {},
   "dependencies": {
     "pass-power": "^1.0.0",
-    "univalid-key-logger": "^1.0.0"
+    "univalid-key-logger": "^1.0.2"
   }
 }
