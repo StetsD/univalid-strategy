@@ -1,6 +1,6 @@
 {
   "name": "univalid-strategy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Abstract class of strategy for univalid module (base API)",
   "main": "index.js",
   "scripts": {},
